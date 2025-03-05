@@ -3,7 +3,7 @@
 _A clean and modern TODO app built with Material Design and SQLite database._
 
 ## 📲 Download the App
-You can download the latest APK from the **[Releases Section](https://github.com/TutorialsAndroid/TODO-App-Android-Java/raw/refs/heads/main/apk/demo.apk)**.
+You can download the latest APK from this link 👉👉 **[Donwload APK](https://github.com/TutorialsAndroid/TODO-App-Android-Java/raw/refs/heads/main/apk/demo.apk)**.
 
 ## 📌 Features
 - **Add Tasks**: Users can add new tasks with a simple dialog.
